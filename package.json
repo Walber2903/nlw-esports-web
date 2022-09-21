@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@radix-ui/react-dialog": "^1.0.0",
+=======
+>>>>>>> 31c236bcd1b645ac8a301572e33cb426c3030d9a
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
